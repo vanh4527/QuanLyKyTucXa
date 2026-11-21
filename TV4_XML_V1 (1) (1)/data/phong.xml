@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<danhSachPhong>
+    <phong id="1">
+        <maPhong>A101</maPhong>
+        <khuNha>Khu A</khuNha>
+        <loaiPhong>Phòng 4 người</loaiPhong>
+        <soGiuongToiDa>4</soGiuongToiDa>
+        <soGiuongDangO>3</soGiuongDangO>
+        <donGia>1000000</donGia>
+        <trangThai>Còn chỗ</trangThai>
+    </phong>
+    <phong id="2">
+        <maPhong>A102</maPhong>
+        <khuNha>Khu A</khuNha>
+        <loaiPhong>Phòng 4 người</loaiPhong>
+        <soGiuongToiDa>4</soGiuongToiDa>
+        <soGiuongDangO>4</soGiuongDangO>
+        <donGia>1000000</donGia>
+        <trangThai>Đã đầy</trangThai>
+    </phong>
+    <phong id="3">
+        <maPhong>A201</maPhong>
+        <khuNha>Khu A</khuNha>
+        <loaiPhong>Phòng 6 người</loaiPhong>
+        <soGiuongToiDa>6</soGiuongToiDa>
+        <soGiuongDangO>2</soGiuongDangO>
+        <donGia>750000</donGia>
+        <trangThai>Còn chỗ</trangThai>
+    </phong>
+    <phong id="4">
+        <maPhong>A202</maPhong>
+        <khuNha>Khu A</khuNha>
+        <loaiPhong>Phòng 6 người</loaiPhong>
+        <soGiuongToiDa>6</soGiuongToiDa>
+        <soGiuongDangO>0</soGiuongDangO>
+        <donGia>750000</donGia>
+        <trangThai>Còn trống</trangThai>
+    </phong>
+    <phong id="5">
+        <maPhong>B101</maPhong>
+        <khuNha>Khu B</khuNha>
+        <loaiPhong>Phòng 4 người</loaiPhong>
+        <soGiuongToiDa>4</soGiuongToiDa>
+        <soGiuongDangO>4</soGiuongDangO>
+        <donGia>1200000</donGia>
+        <trangThai>Đã đầy</trangThai>
+    </phong>
+    <phong id="6">
+        <maPhong>B102</maPhong>
+        <khuNha>Khu B</khuNha>
+        <loaiPhong>Phòng 4 người</loaiPhong>
+        <soGiuongToiDa>4</soGiuongToiDa>
+        <soGiuongDangO>1</soGiuongDangO>
+        <donGia>1200000</donGia>
+        <trangThai>Còn chỗ</trangThai>
+    </phong>
+    <phong id="7">
+        <maPhong>B201</maPhong>
+        <khuNha>Khu B</khuNha>
+        <loaiPhong>Phòng 8 người</loaiPhong>
+        <soGiuongToiDa>8</soGiuongToiDa>
+        <soGiuongDangO>5</soGiuongDangO>
+        <donGia>600000</donGia>
+        <trangThai>Còn chỗ</trangThai>
+    </phong>
+    <phong id="8">
+        <maPhong>B202</maPhong>
+        <khuNha>Khu B</khuNha>
+        <loaiPhong>Phòng 8 người</loaiPhong>
+        <soGiuongToiDa>8</soGiuongToiDa>
+        <soGiuongDangO>0</soGiuongDangO>
+        <donGia>600000</donGia>
+        <trangThai>Còn trống</trangThai>
+    </phong>
+    <phong id="9">
+        <maPhong>C101</maPhong>
+        <khuNha>Khu C</khuNha>
+        <loaiPhong>Phòng 2 người</loaiPhong>
+        <soGiuongToiDa>2</soGiuongToiDa>
+        <soGiuongDangO>2</soGiuongDangO>
+        <donGia>1800000</donGia>
+        <trangThai>Đã đầy</trangThai>
+    </phong>
+    <phong id="10">
+        <maPhong>C102</maPhong>
+        <khuNha>Khu C</khuNha>
+        <loaiPhong>Phòng 2 người</loaiPhong>
+        <soGiuongToiDa>2</soGiuongToiDa>
+        <soGiuongDangO>0</soGiuongDangO>
+        <donGia>1800000</donGia>
+        <trangThai>Đang sửa chữa</trangThai>
+    </phong>
+</danhSachPhong>

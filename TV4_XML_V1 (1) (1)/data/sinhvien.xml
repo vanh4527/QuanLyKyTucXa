@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<danhSachSinhVien>
+    <sinhVien id="1">
+        <maSV>SV001</maSV>
+        <hoTen>Nguyễn Văn An</hoTen>
+        <ngaySinh>15/03/2005</ngaySinh>
+        <gioiTinh>Nam</gioiTinh>
+        <soCCCD>001205012345</soCCCD>
+        <soDienThoai>0912345601</soDienThoai>
+        <khoa>Công nghệ thông tin</khoa>
+        <phongId>1</phongId>
+    </sinhVien>
+    <sinhVien id="2">
+        <maSV>SV002</maSV>
+        <hoTen>Trần Thị Bình</hoTen>
+        <ngaySinh>22/07/2005</ngaySinh>
+        <gioiTinh>Nữ</gioiTinh>
+        <soCCCD>001305023456</soCCCD>
+        <soDienThoai>0912345602</soDienThoai>
+        <khoa>Kinh tế</khoa>
+        <phongId>3</phongId>
+    </sinhVien>
+    <sinhVien id="3">
+        <maSV>SV003</maSV>
+        <hoTen>Lê Hoàng Cường</hoTen>
+        <ngaySinh>09/11/2004</ngaySinh>
+        <gioiTinh>Nam</gioiTinh>
+        <soCCCD>001204034567</soCCCD>
+        <soDienThoai>0912345603</soDienThoai>
+        <khoa>Cơ khí</khoa>
+        <phongId>1</phongId>
+    </sinhVien>
+    <sinhVien id="4">
+        <maSV>SV004</maSV>
+        <hoTen>Phạm Thị Dung</hoTen>
+        <ngaySinh>30/01/2005</ngaySinh>
+        <gioiTinh>Nữ</gioiTinh>
+        <soCCCD>001305045678</soCCCD>
+        <soDienThoai>0912345604</soDienThoai>
+        <khoa>Ngoại ngữ</khoa>
+        <phongId>3</phongId>
+    </sinhVien>
+    <sinhVien id="5">
+        <maSV>SV005</maSV>
+        <hoTen>Hoàng Minh Đức</hoTen>
+        <ngaySinh>18/05/2004</ngaySinh>
+        <gioiTinh>Nam</gioiTinh>
+        <soCCCD>001204056789</soCCCD>
+        <soDienThoai>0912345605</soDienThoai>
+        <khoa>Điện - Điện tử</khoa>
+        <phongId>2</phongId>
+    </sinhVien>
+    <sinhVien id="6">
+        <maSV>SV006</maSV>
+        <hoTen>Vũ Thị Hà</hoTen>
+        <ngaySinh>12/09/2005</ngaySinh>
+        <gioiTinh>Nữ</gioiTinh>
+        <soCCCD>001305067890</soCCCD>
+        <soDienThoai>0912345606</soDienThoai>
+        <khoa>Công nghệ thông tin</khoa>
+        <phongId>6</phongId>
+    </sinhVien>
+    <sinhVien id="7">
+        <maSV>SV007</maSV>
+        <hoTen>Đặng Quốc Huy</hoTen>
+        <ngaySinh>27/02/2004</ngaySinh>
+        <gioiTinh>Nam</gioiTinh>
+        <soCCCD>001204078901</soCCCD>
+        <soDienThoai>0912345607</soDienThoai>
+        <khoa>Xây dựng</khoa>
+        <phongId>7</phongId>
+    </sinhVien>
+    <sinhVien id="8">
+        <maSV>SV008</maSV>
+        <hoTen>Bùi Thị Lan</hoTen>
+        <ngaySinh>03/12/2005</ngaySinh>
+        <gioiTinh>Nữ</gioiTinh>
+        <soCCCD>001305089012</soCCCD>
+        <soDienThoai>0912345608</soDienThoai>
+        <khoa>Kế toán</khoa>
+        <phongId>7</phongId>
+    </sinhVien>
+    <sinhVien id="9">
+        <maSV>SV009</maSV>
+        <hoTen>Ngô Thanh Phong</hoTen>
+        <ngaySinh>21/08/2004</ngaySinh>
+        <gioiTinh>Nam</gioiTinh>
+        <soCCCD>001204090123</soCCCD>
+        <soDienThoai>0912345609</soDienThoai>
+        <khoa>Cơ khí</khoa>
+        <phongId>2</phongId>
+    </sinhVien>
+    <sinhVien id="10">
+        <maSV>SV010</maSV>
+        <hoTen>Đỗ Thùy Trang</hoTen>
+        <ngaySinh>14/04/2005</ngaySinh>
+        <gioiTinh>Nữ</gioiTinh>
+        <soCCCD>001305101234</soCCCD>
+        <soDienThoai>0912345610</soDienThoai>
+        <khoa>Kinh tế</khoa>
+        <phongId>9</phongId>
+    </sinhVien>
+</danhSachSinhVien>
