@@ -1,4 +1,4 @@
-package ktx.model;
+package com.mycompany.quanlykytucxa.entity;
 
 /** Lớp thực thể Phòng ký túc xá. */
 public class Phong {
