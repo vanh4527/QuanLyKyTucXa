@@ -1,4 +1,4 @@
-package ktx.service;
+package com.mycompany.quanlykytucxa.controller;
 
 import ktx.model.Phong;
 import ktx.model.ValidationException;
