@@ -1,4 +1,4 @@
-package ktx.storage;
+package com.mycompany.quanlykytucxa.utils;
 
 import ktx.model.Phong;
 import org.w3c.dom.Document;
