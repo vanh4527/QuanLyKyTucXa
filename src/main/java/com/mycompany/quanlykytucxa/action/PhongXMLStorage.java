@@ -1,4 +1,4 @@
-package com.mycompany.quanlykytucxa.utils;
+package com.mycompany.quanlykytucxa.action;
 
 import ktx.model.Phong;
 import org.w3c.dom.Document;
