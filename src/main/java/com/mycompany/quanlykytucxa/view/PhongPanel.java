@@ -1,4 +1,4 @@
-package ktx.ui;
+package com.mycompany.quanlykytucxa.view;
 
 import ktx.model.Phong;
 import ktx.model.ValidationException;
